@@ -1,0 +1,11 @@
+-- ram is working 
+writing first line 
+making some functions
+writing some more lines 
+after first commit
+
+-- raj is wokrking here now
+he is right now writing some codes
+
+writing some lines to show 
+how to merge
